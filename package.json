@@ -17,8 +17,5 @@
   "bugs": {
     "url": "https://github.com/jayl2/RestaurantReviews/issues"
   },
-  "homepage": "https://github.com/jayl2/RestaurantReviews#readme",
-  "dependencies": {
-    "express": "^4.18.1"
-  }
+  "homepage": "https://github.com/jayl2/RestaurantReviews#readme"
 }
