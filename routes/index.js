@@ -9,5 +9,6 @@ router.get("/restaurants/:id", restaurants.getOneRestaurant);
 //Reviews route
 router.get("/reviews", reviews.getAllReviews);
 router.post("/reviews", reviews.createReview);
+router.get("/reviews/:id", reviews.getReview);
 
 module.exports = router;
