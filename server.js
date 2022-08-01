@@ -4,7 +4,7 @@ const routes = require("./routes");
 const db = require("./db");
 const app = express();
 const cors = require("cors");
-const logger = "morgan";
+const logger = require("morgan");
 
 const { Restaurant } = require("./models");
 
